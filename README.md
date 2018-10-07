@@ -1,7 +1,7 @@
 # Description
 
-- A weather forecast application to retrieve and display data from OpenWeatherMap
-- React, Redux, Redux-Promise Middleware, Axios (Ajax Request)
+- A simple blog app that create, view, delete blog post from a blog api.
+- React, Redux, Redux-Promise Middleware, Axios (Ajax Request), React Router, Redux Form
 
 
 
